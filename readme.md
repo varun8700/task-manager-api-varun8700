@@ -115,18 +115,3 @@ Response: Success message or 404 if not found.
 
 🛠️ Future Improvements
 Persistent storage with MongoDB
-
-User authentication
-
-Filtering and pagination
-
-📄 License
-This project is open source and free to use under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Just copy and paste this into a `README.md` file in your project folder. Let me know if you want to genera
